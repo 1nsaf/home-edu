@@ -1,2 +1,5 @@
 print("Hello");
 print("Hi");
+print("hihi");
+print("Hello");
+print("Hi");
